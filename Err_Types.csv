@@ -1,0 +1,298 @@
+Fac,B_A,Date,Care_Level,Wrong_Resident,Wrong_Dose,Wrong_Time,Wrong_Day,Pill_Found,Not_Given,Med_React,Other
+D1,Before,Jan-16,Dementia,0,0,0,0,0,0,0,0
+D1,Before,Feb-16,Dementia,0,0,0,0,0,0,0,0
+D1,Before,Mar-16,Dementia,0,0,0,0,0,0,0,0
+D1,Before,Apr-16,Dementia,0,0,0,0,0,0,0,0
+D1,Before,May-16,Dementia,0,1,0,0,0,0,0,0
+D1,Before,Jun-16,Dementia,0,0,1,0,0,0,0,0
+D1,Before,Jul-16,Dementia,0,0,0,0,0,0,0,1
+D1,Before,Aug-16,Dementia,0,0,0,0,0,1,0,0
+D1,Before,Sep-16,Dementia,0,0,0,0,0,0,0,1
+D1,Before,Oct-16,Dementia,0,0,0,0,0,0,0,0
+D1,Before,Nov-16,Dementia,0,0,0,0,0,0,0,0
+D1,Before,Dec-16,Dementia,0,0,0,0,0,0,0,1
+D1,Before,Jan-17,Dementia,0,0,0,0,0,1,0,0
+D1,Before,Feb-17,Dementia,0,0,0,0,0,0,0,1
+D1,Before,Mar-17,Dementia,0,0,0,0,0,0,0,1
+D1,Before,Apr-17,Dementia,0,0,0,0,0,0,0,0
+D1,Before,May-17,Dementia,0,0,0,0,0,0,0,1
+D1,Before,Jun-17,Dementia,0,0,0,0,0,0,0,0
+D1,After,Oct-17,Dementia,0,0,0,0,0,0,0,0
+D1,After,Nov-17,Dementia,0,0,0,0,0,0,0,0
+D1,After,Dec-17,Dementia,0,0,0,0,0,0,0,0
+D1,After,Jan-18,Dementia,0,0,0,0,0,0,0,0
+D1,After,Feb-18,Dementia,0,0,0,0,0,0,0,0
+D1,After,Mar-18,Dementia,0,0,1,0,0,0,0,0
+D1,After,Apr-18,Dementia,0,0,0,0,0,0,0,0
+D1,After,May-18,Dementia,0,0,0,0,0,0,0,0
+D1,After,Jun-18,Dementia,0,0,0,0,1,0,0,0
+D1,After,Jul-18,Dementia,0,0,0,0,0,1,0,0
+D1,After,Aug-18,Dementia,0,0,0,0,2,0,0,0
+D1,After,Sep-18,Dementia,0,0,0,0,0,0,0,0
+D1,After,Oct-18,Dementia,0,0,0,0,1,0,0,1
+D1,After,Nov-18,Dementia,0,0,0,0,0,0,0,0
+D1,After,Dec-18,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Jan-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Feb-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Mar-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Apr-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,May-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Jun-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Jul-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Aug-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Sep-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Oct-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Nov-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Dec-16,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Jan-17,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Feb-17,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Mar-17,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Apr-17,Dementia,0,0,0,0,0,0,0,0
+D2,Before,May-17,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Jun-17,Dementia,0,0,0,0,0,0,0,0
+D2,Before,Jul-17,Dementia,0,0,0,0,0,1,0,0
+D2,After,Nov-17,Dementia,0,0,0,0,0,0,0,0
+D2,After,Dec-17,Dementia,0,0,0,0,0,0,0,0
+D2,After,Jan-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Feb-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Mar-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Apr-18,Dementia,0,0,0,0,0,1,0,0
+D2,After,May-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Jun-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Jul-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Aug-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Sep-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Oct-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Nov-18,Dementia,0,0,0,0,0,0,0,0
+D2,After,Dec-18,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Jan-16,Dementia,0,1,0,0,0,1,0,0
+D3,Before,Feb-16,Dementia,0,0,0,0,0,1,0,0
+D3,Before,Mar-16,Dementia,0,0,1,0,0,0,0,0
+D3,Before,Apr-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,May-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Jun-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Jul-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Aug-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Sep-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Oct-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Nov-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Dec-16,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Jan-17,Dementia,0,0,0,0,1,0,0,0
+D3,Before,Feb-17,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Mar-17,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Apr-17,Dementia,0,0,0,0,0,0,0,0
+D3,Before,May-17,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Jun-17,Dementia,0,0,0,0,0,0,0,0
+D3,Before,Jul-17,Dementia,0,0,0,0,0,0,0,0
+D3,After,Nov-17,Dementia,0,0,0,0,0,0,0,0
+D3,After,Dec-17,Dementia,0,1,0,0,0,0,0,0
+D3,After,Jan-18,Dementia,0,0,0,0,0,1,0,0
+D3,After,Feb-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,Mar-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,Apr-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,May-18,Dementia,0,0,0,0,0,0,1,0
+D3,After,Jun-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,Jul-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,Aug-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,Sep-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,Oct-18,Dementia,1,0,0,0,0,0,0,0
+D3,After,Nov-18,Dementia,0,0,0,0,0,0,0,0
+D3,After,Dec-18,Dementia,0,0,0,0,0,0,0,0
+D4,Before,Jan-16,Dementia,1,0,0,0,0,0,0,0
+D4,Before,Feb-16,Dementia,0,0,0,0,0,2,0,1
+D4,Before,Mar-16,Dementia,0,0,0,0,0,0,0,1
+D4,Before,Apr-16,Dementia,1,0,0,0,0,0,0,0
+D4,Before,May-16,Dementia,0,0,0,0,0,1,0,1
+D4,Before,Jun-16,Dementia,0,0,0,2,1,0,0,1
+D4,Before,Jul-16,Dementia,0,0,0,0,0,0,0,2
+D4,Before,Aug-16,Dementia,0,0,0,0,0,0,0,2
+D4,Before,Sep-16,Dementia,0,0,0,0,0,0,0,1
+D4,Before,Oct-16,Dementia,0,0,0,0,0,0,0,0
+D4,Before,Nov-16,Dementia,0,0,0,0,0,0,0,0
+D4,Before,Dec-16,Dementia,0,0,0,0,0,0,0,0
+D4,Before,Jan-17,Dementia,0,0,0,0,0,1,0,0
+D4,Before,Feb-17,Dementia,0,0,0,0,0,0,0,0
+D4,Before,Mar-17,Dementia,1,0,0,0,0,0,0,0
+D4,Before,Apr-17,Dementia,0,0,1,0,0,0,0,0
+D4,Before,May-17,Dementia,0,0,0,0,0,3,0,0
+D4,Before,Jun-17,Dementia,0,0,0,0,0,0,0,0
+D4,After,Oct-17,Dementia,0,0,0,0,0,0,0,0
+D4,After,Nov-17,Dementia,0,0,0,0,0,0,0,0
+D4,After,Dec-17,Dementia,0,0,0,0,0,0,0,0
+D4,After,Jan-18,Dementia,0,0,0,0,1,0,0,0
+D4,After,Feb-18,Dementia,0,0,0,0,3,0,0,1
+D4,After,Mar-18,Dementia,0,0,0,0,0,2,0,0
+D4,After,Apr-18,Dementia,0,0,0,0,0,0,0,0
+D4,After,May-18,Dementia,0,0,0,0,0,1,0,0
+D4,After,Jun-18,Dementia,0,0,0,0,0,1,0,1
+D4,After,Jul-18,Dementia,1,0,0,0,0,0,0,0
+D4,After,Aug-18,Dementia,0,0,0,0,0,0,0,0
+D4,After,Sep-18,Dementia,0,0,0,0,0,0,0,0
+D4,After,Oct-18,Dementia,0,0,0,0,0,0,0,0
+D4,After,Nov-18,Dementia,0,0,0,0,0,0,0,1
+D4,After,Dec-18,Dementia,0,0,0,0,0,0,0,0
+D5,Before,Jan-16,Dementia,0,0,0,0,0,0,0,1
+D5,Before,Feb-16,Dementia,0,0,2,0,0,0,0,0
+D5,Before,Mar-16,Dementia,0,0,0,0,1,0,0,1
+D5,Before,Apr-16,Dementia,0,0,1,0,0,0,0,0
+D5,Before,May-16,Dementia,1,0,0,0,1,0,0,0
+D5,Before,Jun-16,Dementia,0,0,0,0,1,3,0,0
+D5,Before,Jul-16,Dementia,0,0,1,0,0,1,0,0
+D5,Before,Aug-16,Dementia,0,0,0,0,0,0,0,0
+D5,Before,Sep-16,Dementia,0,0,0,0,0,0,0,0
+D5,Before,Oct-16,Dementia,0,0,1,0,1,0,0,0
+D5,Before,Nov-16,Dementia,1,0,0,0,0,0,0,0
+D5,Before,Dec-16,Dementia,0,0,0,0,5,0,0,0
+D5,Before,Jan-17,Dementia,1,0,0,0,0,2,0,0
+D5,Before,Feb-17,Dementia,2,1,0,0,0,2,0,1
+D5,Before,Mar-17,Dementia,0,0,0,0,0,0,0,0
+D5,Before,Apr-17,Dementia,0,0,0,0,0,3,0,2
+D5,Before,May-17,Dementia,1,2,0,0,0,3,0,1
+D5,Before,Jun-17,Dementia,0,0,0,0,0,2,0,0
+D5,Before,Jul-17,Dementia,0,0,0,0,1,1,0,1
+D5,Before,Aug-17,Dementia,0,0,1,0,0,1,0,0
+D5,After,Dec-17,Dementia,0,0,0,0,1,0,0,2
+D5,After,Jan-18,Dementia,0,1,0,0,0,1,0,1
+D5,After,Feb-18,Dementia,0,1,0,0,1,2,0,0
+D5,After,Mar-18,Dementia,0,0,0,0,0,0,0,0
+D5,After,Apr-18,Dementia,0,0,0,0,0,1,0,0
+D5,After,May-18,Dementia,0,0,0,0,0,0,0,0
+D5,After,Jun-18,Dementia,0,0,0,0,2,0,0,0
+D5,After,Jul-18,Dementia,0,0,0,0,3,1,0,0
+D5,After,Aug-18,Dementia,0,0,0,0,1,3,0,1
+D5,After,Sep-18,Dementia,0,0,0,0,2,0,0,0
+D5,After,Oct-18,Dementia,0,0,0,0,0,1,0,0
+D5,After,Nov-18,Dementia,0,0,0,0,0,2,0,0
+D5,After,Dec-18,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Jan-16,Dementia,0,0,0,0,1,0,0,0
+D6,Before,Feb-16,Dementia,0,1,0,0,0,0,0,0
+D6,Before,Mar-16,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Apr-16,Dementia,0,0,1,0,0,1,0,0
+D6,Before,May-16,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Jun-16,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Jul-16,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Aug-16,Dementia,0,0,0,0,0,1,0,0
+D6,Before,Sep-16,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Oct-16,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Nov-16,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Dec-16,Dementia,0,0,1,0,0,0,0,0
+D6,Before,Jan-17,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Feb-17,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Mar-17,Dementia,0,0,0,0,0,1,0,0
+D6,Before,Apr-17,Dementia,0,0,1,0,0,1,0,0
+D6,Before,May-17,Dementia,0,0,0,0,0,0,0,1
+D6,Before,Jun-17,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Jul-17,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Aug-17,Dementia,0,0,0,0,0,0,0,0
+D6,Before,Sep-17,Dementia,0,0,0,0,0,0,0,0
+D6,After,Jan-18,Dementia,0,0,0,0,0,0,0,0
+D6,After,Feb-18,Dementia,0,0,0,0,0,0,0,0
+D6,After,Mar-18,Dementia,0,0,0,0,0,1,0,1
+D6,After,Apr-18,Dementia,1,0,0,0,0,0,0,1
+D6,After,May-18,Dementia,0,0,0,0,0,0,0,0
+D6,After,Jun-18,Dementia,0,0,0,0,0,0,0,1
+D6,After,Jul-18,Dementia,0,0,0,0,0,0,0,1
+D6,After,Aug-18,Dementia,1,0,0,0,0,0,0,0
+D6,After,Sep-18,Dementia,0,0,0,0,1,1,0,0
+D6,After,Oct-18,Dementia,0,0,0,0,0,0,0,0
+D6,After,Nov-18,Dementia,0,0,0,0,0,1,0,0
+D6,After,Dec-18,Dementia,1,0,0,0,0,1,0,0
+R1,Before,Jan-16,Rest Home ,0,2,0,0,0,0,0,0
+R1,Before,Feb-16,Rest Home ,0,1,0,0,0,0,0,1
+R1,Before,Mar-16,Rest Home ,1,0,0,0,0,0,0,1
+R1,Before,Apr-16,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,May-16,Rest Home ,0,0,0,0,0,1,0,0
+R1,Before,Jun-16,Rest Home ,0,1,0,0,0,1,0,0
+R1,Before,Jul-16,Rest Home ,0,1,0,0,0,0,0,0
+R1,Before,Aug-16,Rest Home ,0,0,0,0,0,3,0,2
+R1,Before,Sep-16,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,Oct-16,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,Nov-16,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,Dec-16,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,Jan-17,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,Feb-17,Rest Home ,0,0,0,0,1,0,0,0
+R1,Before,Mar-17,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,Apr-17,Rest Home ,0,0,0,0,0,0,0,0
+R1,Before,May-17,Rest Home ,0,0,0,0,0,1,0,1
+R1,Before,Jun-17,Rest Home ,0,1,0,0,0,0,0,0
+R1,After,Oct-17,Rest Home ,0,0,0,0,0,0,0,0
+R1,After,Nov-17,Rest Home ,1,0,0,0,0,0,0,1
+R1,After,Dec-17,Rest Home ,0,1,0,0,0,0,0,0
+R1,After,Jan-18,Rest Home ,0,1,0,0,0,0,0,1
+R1,After,Feb-18,Rest Home ,0,1,0,0,0,0,0,0
+R1,After,Mar-18,Rest Home ,1,0,0,0,0,0,0,0
+R1,After,Apr-18,Rest Home ,1,0,0,0,0,0,0,0
+R1,After,May-18,Rest Home ,0,0,0,0,0,0,0,0
+R1,After,Jun-18,Rest Home ,0,0,0,0,0,1,0,0
+R1,After,Jul-18,Rest Home ,0,0,0,0,0,0,0,0
+R1,After,Aug-18,Rest Home ,0,0,0,0,0,0,0,0
+R1,After,Sep-18,Rest Home ,0,0,0,0,0,0,0,0
+R1,After,Oct-18,Rest Home ,0,0,0,0,0,0,0,0
+R1,After,Nov-18,Rest Home ,0,0,0,0,0,0,0,0
+R1,After,Dec-18,Rest Home ,0,0,0,0,0,2,0,0
+R2,Before,Jan-16,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,Feb-16,Rest Home ,0,0,0,0,0,1,0,0
+R2,Before,Mar-16,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,Apr-16,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,May-16,Rest Home ,0,0,0,0,0,1,0,0
+R2,Before,Jun-16,Rest Home ,0,0,0,0,0,0,0,1
+R2,Before,Jul-16,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,Aug-16,Rest Home ,0,0,0,0,3,0,0,0
+R2,Before,Sep-16,Rest Home ,0,0,0,0,3,0,0,0
+R2,Before,Oct-16,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,Nov-16,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,Dec-16,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,Jan-17,Rest Home ,0,0,0,0,1,2,0,2
+R2,Before,Feb-17,Rest Home ,0,1,0,0,2,0,0,1
+R2,Before,Mar-17,Rest Home ,0,0,0,0,0,0,0,0
+R2,Before,Apr-17,Rest Home ,1,0,0,0,0,0,0,0
+R2,Before,May-17,Rest Home ,0,0,0,0,0,0,0,2
+R2,Before,Jun-17,Rest Home ,0,0,1,0,1,1,0,0
+R2,Before,Jul-17,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Nov-17,Rest Home ,0,0,0,0,0,3,0,0
+R2,After,Dec-17,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Jan-18,Rest Home ,0,0,0,0,1,0,0,1
+R2,After,Feb-18,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Mar-18,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Apr-18,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,May-18,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Jun-18,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Jul-18,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Aug-18,Rest Home ,0,0,0,0,0,0,0,1
+R2,After,Sep-18,Rest Home ,0,1,0,0,1,0,0,0
+R2,After,Oct-18,Rest Home ,1,0,0,0,0,0,0,0
+R2,After,Nov-18,Rest Home ,0,0,0,0,0,0,0,0
+R2,After,Dec-18,Rest Home ,0,0,0,0,0,1,0,0
+I1,Before,Jan-16,Intellectual,0,0,0,0,0,1,0,0
+I1,Before,Feb-16,Intellectual,0,1,0,0,0,0,0,0
+I1,Before,Mar-16,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,Apr-16,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,May-16,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,Jun-16,Intellectual,0,0,0,0,2,0,0,0
+I1,Before,Jul-16,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,Aug-16,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,Sep-16,Intellectual,0,0,0,0,0,0,0,2
+I1,Before,Oct-16,Intellectual,0,0,0,0,0,1,0,0
+I1,Before,Nov-16,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,Dec-16,Intellectual,1,0,0,0,0,0,0,0
+I1,Before,Jan-17,Intellectual,0,0,0,0,0,1,0,0
+I1,Before,Feb-17,Intellectual,1,0,0,0,0,0,0,0
+I1,Before,Mar-17,Intellectual,1,0,0,0,0,0,0,0
+I1,Before,Apr-17,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,May-17,Intellectual,0,0,0,1,0,2,0,0
+I1,Before,Jun-17,Intellectual,0,0,0,0,0,1,0,0
+I1,Before,Jul-17,Intellectual,0,0,0,0,0,0,0,0
+I1,Before,Aug-17,Intellectual,2,0,0,0,0,0,0,0
+I1,After,Dec-17,Intellectual,0,0,0,0,0,1,0,0
+I1,After,Jan-18,Intellectual,0,0,0,0,0,0,0,0
+I1,After,Feb-18,Intellectual,0,0,0,0,0,1,0,1
+I1,After,Mar-18,Intellectual,0,0,0,0,2,2,0,3
+I1,After,Apr-18,Intellectual,0,0,0,0,0,3,0,22
+I1,After,May-18,Intellectual,0,0,0,0,0,1,0,0
+I1,After,Jun-18,Intellectual,0,0,0,0,0,0,0,1
+I1,After,Jul-18,Intellectual,0,0,0,0,0,0,0,0
+I1,After,Aug-18,Intellectual,0,0,0,0,0,0,0,0
+I1,After,Sep-18,Intellectual,0,0,0,0,0,1,0,0
+I1,After,Oct-18,Intellectual,0,0,0,1,0,1,0,0
+I1,After,Nov-18,Intellectual,0,0,0,0,0,0,0,0
+I1,After,Dec-18,Intellectual,0,0,1,0,0,0,0,0
